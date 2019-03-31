@@ -1,0 +1,1 @@
+export const endpoint = "https://api.prontoitlabs.com/api/v1";
